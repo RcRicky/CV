@@ -1,0 +1,37 @@
+body {
+  background-color: #FCFFA6;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: #D72323;
+  border-width: 5px;
+  width:5%;
+}
+h1{
+  color: #11052C ;
+  font-family:"fantasy", papyrus;
+}
+h2{
+  color: #00ADB5;
+}
+h3{
+  color: #00ADB5;
+  font-family:"fantasy",papyrus;
+}
+h4{
+  color: #FFD3B6;
+}
+h5{
+  color: #FFD3B6;
+}
+h6{
+  color: #FFB6B9;
+}
+p{
+  font-size: 20px;
+  color: #000000;
+}
+table{
+  color: #511845;
+}
